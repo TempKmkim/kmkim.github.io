@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Hyuk-kyu Kang
+    name: Kyoungmin Kim
     tagline: PhD Student in Database & Data Mining Lab
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hkkang@dblab.postech.ac.kr
-    phone: 054-xxx-xxxx
+    email: kmkim@dblab.postech.ac.kr
+#    phone: 054-xxx-xxxx
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
-    github: hyukyu
+#    github: hyukyu
 #    telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
